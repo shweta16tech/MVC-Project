@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tasks\\telephonedirectory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\controllers\\directorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\controllers\\directorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\views\\directory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\views\\directory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\views\\directory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\views\\directory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\models\\telephoneentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\models\\telephoneentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\views\\directory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\views\\directory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\views\\directory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\views\\directory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|e:\\tasks\\telephonedirectory\\telephonedirectory\\views\\directory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC1BBC9-06F9-4EEF-8A3E-1820449852AF}|telephonedirectory\\telephonedirectory.csproj|solutionrelative:telephonedirectory\\views\\directory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Directory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "telephonedirectory\\Views\\Directory\\Edit.cshtml",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Directory\\Edit.cshtml",
+              "RelativeToolTip": "telephonedirectory\\Views\\Directory\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T10:09:15.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\appsettings.json",
+              "RelativeDocumentMoniker": "telephonedirectory\\appsettings.json",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\appsettings.json",
+              "RelativeToolTip": "telephonedirectory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T06:25:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "telephonedirectory\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "telephonedirectory\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T06:18:08.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "telephonedirectory\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "telephonedirectory\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T06:17:59.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Directory\\Index.cshtml",
+              "RelativeDocumentMoniker": "telephonedirectory\\Views\\Directory\\Index.cshtml",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Directory\\Index.cshtml",
+              "RelativeToolTip": "telephonedirectory\\Views\\Directory\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T05:57:23.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Program.cs",
+              "RelativeDocumentMoniker": "telephonedirectory\\Program.cs",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Program.cs",
+              "RelativeToolTip": "telephonedirectory\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAABBwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:10:48.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Directory\\Details.cshtml",
+              "RelativeDocumentMoniker": "telephonedirectory\\Views\\Directory\\Details.cshtml",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Directory\\Details.cshtml",
+              "RelativeToolTip": "telephonedirectory\\Views\\Directory\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T05:21:46.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectoryController.cs",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Controllers\\DirectoryController.cs",
+              "RelativeDocumentMoniker": "telephonedirectory\\Controllers\\DirectoryController.cs",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Controllers\\DirectoryController.cs",
+              "RelativeToolTip": "telephonedirectory\\Controllers\\DirectoryController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAA0wAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:59:10.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Directory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "telephonedirectory\\Views\\Directory\\Delete.cshtml",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Directory\\Delete.cshtml",
+              "RelativeToolTip": "telephonedirectory\\Views\\Directory\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T10:30:49.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Directory\\Create.cshtml",
+              "RelativeDocumentMoniker": "telephonedirectory\\Views\\Directory\\Create.cshtml",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Views\\Directory\\Create.cshtml",
+              "RelativeToolTip": "telephonedirectory\\Views\\Directory\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T05:13:04.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TelephoneEntry.cs",
+              "DocumentMoniker": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Models\\TelephoneEntry.cs",
+              "RelativeDocumentMoniker": "telephonedirectory\\Models\\TelephoneEntry.cs",
+              "ToolTip": "E:\\Tasks\\telephonedirectory\\telephonedirectory\\Models\\TelephoneEntry.cs",
+              "RelativeToolTip": "telephonedirectory\\Models\\TelephoneEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:54:42.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

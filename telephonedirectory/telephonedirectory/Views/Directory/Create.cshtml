@@ -1,0 +1,14 @@
+﻿@model telephonedirectory.Models.TelephoneEntry
+
+<h2>Telephone Direcctory</h2>
+
+<form asp-action="Create" method="post">
+    <input asp-for="name" placeholder="Name" /> <br /> <br />
+    <input asp-for="address" placeholder="Address" /> <br /> <br />
+    <input asp-for="telephone" placeholder="Telephone" /> <br /> <br />
+    <input asp-for="country" placeholder="Country" /> <br /> <br />
+    <input asp-for="province" placeholder="Province" /> <br /> <br />
+    <input asp-for="district" placeholder="District" /> <br /> <br />
+
+    <button type="submit">Submit</button>
+</form>

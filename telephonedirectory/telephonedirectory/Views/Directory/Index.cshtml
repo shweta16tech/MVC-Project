@@ -1,0 +1,42 @@
+﻿@model List<telephonedirectory.Models.TelephoneEntry>
+
+<h2>Telephone Directory</h2>
+
+<a asp-action="Create">Add New Entry</a>
+<br />
+<br />
+
+@if (Model.Count == 0)
+{
+    <p>No entries yet.</p>
+}
+else
+{
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Telephone</th>
+            <th>Country</th>
+            <th>Province</th>
+            <th>District</th>
+            <th>Actions</th>
+        </tr>
+        @foreach (var entry in Model)
+        {
+            <tr>
+                <td>@entry.name</td>
+                <td>@entry.address</td>
+                <td>@entry.telephone</td>
+                <td>@entry.country</td>
+                <td>@entry.province</td>
+                <td>@entry.district</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@entry.id">Details</a> |
+                    <a asp-action="Edit" asp-route-id="@entry.id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@entry.id">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+}

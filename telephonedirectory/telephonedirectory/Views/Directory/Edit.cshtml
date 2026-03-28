@@ -1,0 +1,42 @@
+﻿@model telephonedirectory.Models.TelephoneEntry
+
+<h2>Edit Telephone Entry</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="id" />
+
+    <div>
+        <label>Name:</label>
+        <input asp-for="name" />
+        <span asp-validation-for="name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label>Address:</label>
+        <input asp-for="address" />
+    </div>
+
+    <div>
+        <label>Telephone:</label>
+        <input asp-for="telephone" />
+        <span asp-validation-for="telephone" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label>Country:</label>
+        <input asp-for="country" />
+    </div>
+
+    <div>
+        <label>Province:</label>
+        <input asp-for="province" />
+    </div>
+
+    <div>
+        <label>District:</label>
+        <input asp-for="district" />
+    </div>
+
+    <button type="submit">Update</button>
+</form>
+
